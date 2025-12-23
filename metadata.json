@@ -1,0 +1,7 @@
+{
+  "name": "Café Delhi Heights Digital Experience",
+  "description": "A vibrant, AI-powered digital storefront for Café Delhi Heights, featuring an interactive menu assistant and intelligent store locator.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
